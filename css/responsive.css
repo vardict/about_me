@@ -1,0 +1,126 @@
+/*Home section*/
+@media(min-width:576px) {
+    .about-me {
+        width: 576px;
+        left: -30px;
+    }
+    .skills {
+        width: 576px;
+        left: -30px;
+    }
+    .gallery {
+        width: 576px;
+        left: -30px;
+    }
+}
+
+@media(min-width:768px) {
+    /*Home section*/
+    .about-me {
+        width: 768px;
+        left: -36px;
+    }
+    .skills {
+        width: 768px;
+        left: -36px;
+    }
+    .gallery {
+        width: 768px;
+        left: -36px;
+    }
+}
+
+@media(min-width:992px) {
+    /*Home section*/
+    .about-me {
+        height: 500px;
+        width: 500px;
+    }
+
+    .about-me h1 {
+        font-size: 5rem;
+        padding-top: 190px;
+    }
+
+    .skills {
+        height: 500px;
+        width: 530px;
+    }
+
+    .skills h1 {
+        font-size: 5rem;
+        padding: 190px 0;
+    }
+
+    .gallery {
+        height: 500px;
+        width: 1000px;
+    }
+
+    .gallery h1 {
+        font-size: 5rem;
+        padding: 190px 0;
+    }
+
+}
+
+@media(min-width:1200px) {
+    /*Home section*/
+    .about-me {
+        width: 570px;
+        left: -42px;
+    }
+
+    .about-me h1 {
+        font-size: 6rem;
+    }
+
+    .skills {
+        width: 640px;
+    }
+
+    .skills h1 {
+        font-size: 6rem;
+    }
+
+    .gallery {
+        width: 1200px;
+        position: relative;
+        left: -42px;
+    }
+
+    .gallery h1 {
+        font-size: 6rem;
+    }
+}
+
+@media(min-width:1400px) {
+    /*Home section*/
+    .about-me {
+        position: relative;
+        width: 930px;
+        left: -312px;
+    }
+
+    .about-me h1 {
+        font-size: 6rem;
+    }
+
+    .skills {
+        width: 1000px;
+    }
+
+    .skills h1 {
+        font-size: 6rem;
+    }
+
+    .gallery {
+        width: 1920px;
+        position: relative;
+        left: -312px;
+    }
+
+    .gallery h1 {
+        font-size: 6rem;
+    }
+}

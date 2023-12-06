@@ -50,7 +50,54 @@ h6 {
     border-bottom: 2px solid #fff;
 }
 
- .navbar-nav .nav-link.active,
+ /* .navbar-nav .nav-link.active,
  .navbar-nav .nav-link:hover{
-    /* border-bottom: 2px solid #2C2D3C; */
+    /* border-bottom: 2px solid #2C2D3C; 
+} */
+
+/*Home section*/
+
+.about-me{
+    background-color: #A18AE5;
+    color: #CEFF47;
+    height: 300px;
+    width: 320px;
+    position: relative;
+    left: -12px;
+}
+.about-me h1{
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    text-shadow: -8px -5px 5px #000;
+    padding: 115px 0;
+}
+
+.skills{
+    background-color: #0063E2;
+    color:  #DE3891;
+    height: 300px;
+    width: 320px;
+    position: relative;
+    left: -12px;
+}
+
+.skills h1{
+    margin-bottom: 0;
+    font-size: 3rem;
+    text-shadow: -8px -5px 5px #000;
+    padding: 115px 0;
+}
+.gallery{
+    background-color: #DE3891;
+    color: #4BF5FB;
+    height: 300px;
+    width: 320px;
+    position: relative;
+    left: -12px;
+}
+.gallery h1{
+    margin-bottom: 0;
+    font-size: 3rem;
+    text-shadow: -8px -5px 5px #000;
+    padding: 115px 0;
 }
